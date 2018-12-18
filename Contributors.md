@@ -3470,6 +3470,7 @@ Bakht Jamal Sukhera
 - [Manasa Devarapalli](https://github.com/dmanasa6)
 - [Benjamin Belden](https://github.com/BBelden)
 - [dotChristo](https://github.com/BusinessChris/)
+- [Kaptein Thomas] (https://github.com/kapteinthomas)
 - [Piyush Singh](https://github.com/piyush-kgp)
 - [SummerPines](https://githum.com/summerpines)
 - [Oisin Quinn](https://github.com/oisinq)
